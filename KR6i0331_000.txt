@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 證契大乘經
+#+DATE: 2015-08-30 20:16:38.572436
+#+PROPERTY: JUAN 0
