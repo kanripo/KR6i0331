@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:38.319432
+#+DATE: 2015-08-30 20:16:39.860085
 #+TITLE: 證契大乘經
 #+PROPERTY: CBETA_ID T16n0674
 #+PROPERTY: ID KR6i0331
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 674
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0331_T_001-0653a> 
 #+PROPERTY: JUAN 1
 ¶
-No.674[No.673]¶
-
- 《證契大乘經》卷上(亦名入一切佛境智陪盧遮那藏經)¶
+No. 674 [No. 673]¶
+《證契大乘經》卷上(亦名入一切佛境智陪盧遮那藏經)¶
 ¶
 唐天竺三藏地婆訶羅譯¶
 
@@ -389,7 +388,7 @@ No.674[No.673]¶
 是者，有中陰不？」
 
 佛言：「楞迦主！如卵生眾生棄¶
-身託卵，以業風力在於卵中凝𣲨無知，至卵
+身託卵，以業風力在於卵中凝[泳-永+牙]無知，至卵
 <pb:KR6i0331_T_001-0655b>¶
 熟時識方有覺。所以者何？業法如是。以業力¶
 故，卵生眾生，熟時未至無所覺知；又轉輪王¶

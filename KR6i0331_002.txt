@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:38.358756
+#+DATE: 2015-08-30 20:16:39.903743
 #+TITLE: 證契大乘經
 #+PROPERTY: CBETA_ID T16n0674
 #+PROPERTY: ID KR6i0331
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 674
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0331_T_002-0659b> 
 #+PROPERTY: JUAN 2
 ¶
-
- 《證契大乘經》卷下(亦名入一切佛境智陪盧遮那藏經)¶
+《證契大乘經》卷下(亦名入一切佛境智陪盧遮那藏經)¶
 ¶
 唐天竺三藏地婆訶羅譯¶
 
@@ -319,7 +318,7 @@
 
 佛言：「菩薩地有¶
 十。謂：歡喜地、無垢地、明地、焰地、極難勝地、¶
-現前地、遠行地、不動地、善慧地、法雲地。」
+現前地、遠行地、不動地、善慧起、法雲地。」
 
 「世
 <pb:KR6i0331_T_002-0661c>¶
