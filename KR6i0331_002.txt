@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 9:20
+#+DATE: 2016-06-08 9:21
 #+TITLE: 證契大乘經
 #+PROPERTY: CBETA_ID T16n0674
 #+PROPERTY: ID KR6i0331
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 674
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0331_T_002-0659b> 
 #+PROPERTY: JUAN 2
 ¶
@@ -443,7 +443,7 @@
 
 佛言：「正士！諸佛菩薩方¶
 便大悲，見諸眾生深溺三有處，無明闇愛網¶
-纏裹，邪見顛倒信根虧缺，墜於無邊眾苦之內，¶
+纏裏，邪見顛倒信根虧缺，墜於無邊眾苦之內，¶
 往來六趣，諸眾生界漂淪無始莫知其本，不
 <pb:KR6i0331_T_002-0662c>¶
 知佛、不知佛法、不知菩薩法，不能如實知出離¶
